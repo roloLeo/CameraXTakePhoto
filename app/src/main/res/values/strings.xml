@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CameraXTakePhoto</string>
+    <string name="camera_capture_button">Capturar Foto</string>
+</resources>
